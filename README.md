@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Damien and I currently work in Malaysia</h2>
+<h2 align="left">Hi 👋! I'm fraantic and I currently work in Malaysia</h2>
 
 ###
 
